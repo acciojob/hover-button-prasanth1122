@@ -1,13 +1,13 @@
 
 /* Your CSS Code here. */
-#bth{
-	background-color: RGB(255, 255, 255);
-	color: white;
+#btn{
+	background-color: RGB(0, 0, 0);
+	color: RGB(255, 255, 255);
 	border-radius: 5px;
 	border: 0px none RGB(255, 255, 255);
 	
 }
-#bth: hover{
+#btn:hover{
 	background-color: yellow;
 	color: black;
 	border-radius: 30px;
